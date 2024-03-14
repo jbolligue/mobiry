@@ -18,7 +18,7 @@ const Footers = () => {
                             </div>
                         </form>
                     </div>
-                    <div className="footer-content">
+                    <div className="footer-content footer-mobile">
                         <StaticImage alt="Mobiry Logo" src="../images/img 3.png" />
                     </div>
                 </div>

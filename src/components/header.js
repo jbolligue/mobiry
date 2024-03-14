@@ -32,8 +32,8 @@ const Header = () => {
                 {showDiv && 
                 <div className="navbar-mobile-collapsable">
                     <ul className="navbar-mobile-menu">
-                        <li>Hello</li>
-                        <li>Hello</li>
+                        <li className="mobile-menu"><a href="/#" className='mobile-login-btn'>Client Login</a></li>
+                        <li className="mobile-menu"><a href="/#" className='mobile-demo-btn'>Book a Demo</a></li>
                     </ul>
                 </div>
                 }
